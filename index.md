@@ -17,4 +17,4 @@ with interests in macroeconomics, econometrics, and international trade.
 - [Curriculum Vitae](cv.md)
 - [Research](research.md)
 - [Notes](notes/index.md)
-- [Macroeconomics] (
+- [Macroeconomics] (Macroeconomics_MOC.md)
