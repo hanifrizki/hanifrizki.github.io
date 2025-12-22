@@ -15,5 +15,8 @@ Hi I am Hanif and I am currently a second year **Master of Applied Economics** s
 # Navigation
 - [Curriculum Vitae](cv.md)
 - [Research](research.md)
-- [Notes](notes/index.md)
+- [Projects](notes/index.md)
 - [Macroeconomics](MacroeconomicsMOC.md)
+
+
+[Graph](/graph/)
