@@ -5,8 +5,7 @@ title: Muhammad Hanif Rizki
 
 # About
 
-I am a **Master of Applied Economics** student at the **Australian National University**,
-with interests in macroeconomics, econometrics, and international trade.
+Hi I am Hanif and I am currently a second year **Master of Applied Economics** student at the **Australian National University (ANU)**. My 
 
 # Research Interests
 - Macroeconomic theory
