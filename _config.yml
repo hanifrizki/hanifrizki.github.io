@@ -1,3 +1,46 @@
-theme: jekyll-theme-minima
+# --- Site settings ---
 title: Hanif Rizki
 description: Academic website
+url: "https://hanifrizki.github.io"
+baseurl: ""
+
+# --- Theme ---
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-include-cache
+
+# --- Author (sidebar) ---
+author:
+  name: "Hanif Rizki"
+  avatar: "/assets/profile.jpg"
+  bio: "Master of Applied Economics, ANU"
+  location: "Canberra, Australia"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:your@email.com"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/hanifrizki"
+
+# --- Defaults ---
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# --- Navigation ---
+navigation:
+  main:
+    - title: "About"
+      url: /
+    - title: "Research"
+      url: /research/
+    - title: "Notes"
+      url: /notes/
+    - title: "Graph"
+      url: /graph/
