@@ -1,22 +1,16 @@
 ---
-layout: default
-title: Muhammad Hanif Rizki
+title: About
+permalink: /
 ---
 
-# About
+## About
 
-Hi I am Hanif and I am currently a second year **Master of Applied Economics** student at the **Australian National University (ANU)**. My 
+I am a **Master of Applied Economics** student at the  
+**Australian National University**, with interests in:
 
-# Research Interests
-- Macroeconomic theory
-- Structural gravity models
-- Time-series econometrics
+- Macroeconomics
+- Econometrics
+- International Trade
 
-# Navigation
-- [Curriculum Vitae](cv.md)
-- [Research](research.md)
-- [Projects](notes/index.md)
-- [Macroeconomics](MacroeconomicsMOC.md)
-
-
-[Graph](/graph/)
+My work focuses on applied macroeconomic modelling, time-series analysis,
+and structural methods.
