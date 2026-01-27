@@ -3,8 +3,8 @@ title: About
 permalink: /
 ---
 
-I am a **Master of Applied Economics** student at the  
-**[Australian National University](https://programsandcourses.anu.edu.au/)**, with interests in:
+I am a **[Master of Applied Economics](https://programsandcourses.anu.edu.au/program/mapec)** student at the  
+**Australian National University**, with interests in:
 
 - Macroeconomics
 - Econometrics
