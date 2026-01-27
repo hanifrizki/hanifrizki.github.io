@@ -3,10 +3,8 @@ title: About
 permalink: /
 ---
 
-## About
-
 I am a **Master of Applied Economics** student at the  
-**Australian National University**, with interests in:
+**[Australian National University](https://programsandcourses.anu.edu.au/)**, with interests in:
 
 - Macroeconomics
 - Econometrics
