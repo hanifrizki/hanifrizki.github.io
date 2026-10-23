@@ -23,3 +23,4 @@ Semarang, Indonesia · August 2020–December 2022
 - Taught microeconomics and econometrics to more than 100 students.
 - Delivered tutorials in R programming.
 - Supported faculty research through data collection, cleaning, and preparation.
+
