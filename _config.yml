@@ -1,6 +1,6 @@
 # --- Site settings ---
 title: Hanif Rizki
-description: Academic website
+description: Hanif Rizki | Applied economics, research, and teaching
 url: "https://hanifrizki.github.io"
 baseurl: ""
 
@@ -19,7 +19,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "mailto:your@email.com"
+      url: "mailto:muhammad.rizki@anu.edu.au"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/hanifrizki"
@@ -34,13 +34,14 @@ defaults:
       author_profile: true
 
 # --- Navigation ---
-navigation:
-  main:
-    - title: "About"
-      url: /
-    - title: "Research"
-      url: /research/
-    - title: "Notes"
-      url: /notes/
-    - title: "Graph"
-      url: /graph/
+main:
+  - title: "About"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Other Materials"
+    url: /materials/
+  - title: "Notes"
+    url: /notes/

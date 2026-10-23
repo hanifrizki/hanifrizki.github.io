@@ -3,7 +3,6 @@ title: About
 permalink: /
 ---
 
-I am a **[Master of Applied Economics](https://programsandcourses.anu.edu.au/program/mapec)** student at the  
-**Australian National University**.
+I am an applied economist with a **Master of Applied Economics from the Australian National University** and research experience at **Bank Indonesia**. My work has focused on macroeconomic and monetary policy, applied econometrics, policy evaluation, and Indonesian economic data.
 
-[Under Construction]
+My interests include macroeconomics, international trade, and inclusive growth. I enjoy bringing together economic theory and empirical evidence to communicate findings for academic and policy audiences.
