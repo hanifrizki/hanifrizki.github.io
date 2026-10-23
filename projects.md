@@ -1,6 +1,6 @@
 ---
-layout: single
-title: Projects (Coming Soon!)
+title: "Projects"
+permalink: /projects/
 ---
 
-# Youtube
+For my research, writing and other work, please see [Research](/research/).

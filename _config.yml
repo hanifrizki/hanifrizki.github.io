@@ -1,20 +1,21 @@
-# --- Site settings ---
-title: Hanif Rizki
-description: Hanif Rizki | Applied economics, research, and teaching
+# Academic portfolio — built on the original Minimal Mistakes Jekyll theme
+title: "Hanif Rizki"
+title_separator: "|"
+description: "Applied economics, research, writing, and teaching"
 url: "https://hanifrizki.github.io"
 baseurl: ""
-
-# --- Theme ---
-remote_theme: mmistakes/minimal-mistakes
-
+locale: "en-US"
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
+search: false
 plugins:
   - jekyll-include-cache
+  - jekyll-sitemap
 
-# --- Author (sidebar) ---
 author:
-  name: "Hanif Rizki"
+  name: "Muhammad Hanif Rizki"
   avatar: "/assets/profile.jpg"
-  bio: "Master of Applied Economics, ANU"
+  bio: "Applied economist · Master of Applied Economics, Australian National University"
   location: "Canberra, Australia"
   links:
     - label: "Email"
@@ -23,8 +24,13 @@ author:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/hanifrizki"
+    - label: "Writing at Arthapala"
+      icon: "fas fa-pen-nib"
+      url: "https://www.arthapala.id/"
+    - label: "Download CV"
+      icon: "fas fa-file-pdf"
+      url: "/assets/files/Hanif_Rizki_CV_September_2026.pdf"
 
-# --- Defaults ---
 defaults:
   - scope:
       path: ""
@@ -32,16 +38,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-# --- Navigation ---
-main:
-  - title: "About"
-    url: /
-  - title: "Research"
-    url: /research/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Other Materials"
-    url: /materials/
-  - title: "Notes"
-    url: /notes/

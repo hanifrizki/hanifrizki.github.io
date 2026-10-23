@@ -1,13 +1,14 @@
 ---
-layout: single
-title: Notes
+title: "Economics Notes"
+permalink: /notes/
 ---
 
-# Knowledge Notes
+This section is intended for organised study notes and explanations in economics and econometrics. It is still under development.
 
-Welcome to my public Obsidian notes.
+## Planned topics
 
-## Topics
-- [[Macroeconomics]]
-- [[Econometrics]]
-- [[International Trade]]
+- Macroeconomics: aggregate demand, economic growth, inflation, and monetary policy
+- Econometrics: empirical methods and interpreting estimates
+- International economics: trade and exchange rates
+
+For information on the courses I teach, see [Teaching](/teaching/).
