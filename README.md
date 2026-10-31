@@ -20,3 +20,12 @@ This is a GitHub Pages / Jekyll website, retaining the original **Minimal Mistak
 - Original PDF CV: `assets/files/Hanif_Rizki_CV_September_2026.pdf`
 
 No additional theme installation is needed on GitHub Pages. Make sure Jekyll remote themes are supported by your chosen Pages build workflow.
+
+## October 2026 update
+- Research papers are included locally under `assets/files/research/`; abstracts and PDFs are linked in `/research/`.
+- `others.md` contains video embeds (requiring YouTube connectivity), book covers, and hobbies.
+- Toggle light/dark via the moon/sun icon in the top navigation. Theme preference is saved locally in the browser.
+- **The requested original `phi.png` was not supplied.** A generated blue phi-symbol placeholder is provided at `assets/phi.png`; replace it with the intended image if different.
+- LinkedIn now appears in the sidebar, Home and CV pages.
+- The downloadable CV PDF remains the original September 2026 document. Newly added CV page content was not retroactively added to that PDF.
+- Some publications supplied as 2026 assignments were originally dated 2025 in their PDFs, so Research uses the dates shown in the attached papers.

@@ -1,6 +1,18 @@
-<!-- Personal face favicon and theme-preserving refinements -->
-<link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/favicon-32.png' | relative_url }}">
-<link rel="icon" type="image/png" sizes="192x192" href="{{ '/assets/favicon-192.png' | relative_url }}">
+<!-- Replace assets/phi.png with your own icon artwork if you have a preferred phi.png -->
+<link rel="icon" type="image/png" href="{{ '/assets/phi.png' | relative_url }}">
 <link rel="apple-touch-icon" href="{{ '/assets/apple-touch-icon.png' | relative_url }}">
-<link rel="shortcut icon" href="{{ '/favicon.ico' | relative_url }}">
 <link rel="stylesheet" href="{{ '/assets/css/portfolio.css' | relative_url }}">
+<script>
+(function () {
+  try { if (localStorage.getItem('hanif-color-mode') === 'dark' || (!localStorage.getItem('hanif-color-mode') && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches)) document.documentElement.classList.add('dark-mode'); } catch(e) {}
+  document.addEventListener('DOMContentLoaded', function () {
+    const nav = document.querySelector('.masthead__inner-wrap') || document.querySelector('.masthead');
+    if (!nav) return;
+    const b = document.createElement('button'); b.type='button'; b.className='theme-toggle';
+    b.setAttribute('aria-label','Switch to dark mode'); b.setAttribute('title','Switch light/dark mode');
+    function sync(){ const dark=document.documentElement.classList.contains('dark-mode'); b.textContent=dark?'☀':'☾'; b.setAttribute('aria-label', dark?'Switch to light mode':'Switch to dark mode'); b.setAttribute('aria-pressed',String(dark)); }
+    b.onclick = function(){ const dark = document.documentElement.classList.toggle('dark-mode'); try {localStorage.setItem('hanif-color-mode', dark?'dark':'light')} catch(e){} sync();};
+    nav.appendChild(b);sync();
+  });
+})();
+</script>

@@ -3,7 +3,7 @@ title: "Curriculum Vitae"
 permalink: /cv/
 ---
 
-[**Download CV (PDF)**](/assets/files/Hanif_Rizki_CV_September_2026.pdf) · [Email](mailto:muhammad.rizki@anu.edu.au)
+[**Download CV (PDF)**](/assets/files/Hanif_Rizki_CV_September_2026.pdf) · [Email](mailto:muhammad.rizki@anu.edu.au) · [LinkedIn](https://www.linkedin.com/in/muhammad-hanif-rizki/)
 
 ## Profile
 
@@ -41,6 +41,21 @@ Supported work on digitalisation of local government transactions and regional p
 
 **Data Analyst Intern**, Bank Indonesia, Payment System Management Department · April – June 2021  
 Analysed payment transactions to investigate Indonesian household spending patterns.
+
+## Organisations and Leadership
+
+**Head of Professional and Personal Development**, [ANU Indonesian Students Association (ANUISA)](https://anuisa.org/) · January–September 2025  
+Led the Personal and Professional Development Division to support the academic, personal and career development of Indonesian students at ANU. Coordinated Book Club, Expert Series and Alumni Life programmes, including planning, speaker engagement, team management and delivery. Contributed to the wider Academic & Advocacy Department’s nine events with nine experts and 332 participants, 15 digital content pieces and 3,795 YouTube views. [ANUISA YouTube](https://www.youtube.com/@ppia-anu).
+
+**Events Staff**, Kelompok Studi Ekonomi Islam (KSEI), Diponegoro University · August 2018–October 2019  
+Supported event delivery, speaker engagement, liaison activities and evaluation.
+
+## Other Activities and Development
+
+- **Contributor**, Oracle.ai — contributed to work improving frontier AI models in related subject fields.
+- **Volunteer**, ANU 60th Indonesian Project.
+- **Participant**, ANU College of Business and Economics Momentum Intensive Professional Development, Semester 2, 2024.
+- **IELTS:** Overall band 7.5/9.0.
 
 ## Skills
 
